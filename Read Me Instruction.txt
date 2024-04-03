@@ -1,0 +1,13 @@
+Q: How to Use this?
+A:
+Step 1:Run Fer3on Bypass
+Step 2:Open Farlight
+Step 3:Wait until bypass is done.
+Step 4:Run HackExternal.exe
+Step 5:Enjoy~
+
+Q: Not Working or -1 Driver
+A:
+Step 1: Turn off UAC
+Step 2: Turn off Anti Virus or add Exclusion for this Cheat's Folder
+Step 3: Restart
